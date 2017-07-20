@@ -1746,6 +1746,8 @@ Header
 Slider
 --------------------------------------------------------------*/
 
+.swiper-slide figure img { width: 100% !important; height: auto; }
+
 .tg-slider-widget .swiper-button-next {
     background-image: unset;
     right: 0;
@@ -3180,7 +3182,7 @@ Footer
 --------------------------------------------------------------*/
 
 #top-footer {
-    background-color: #FF4500;
+    background-color: #313b48;
     padding: 80px 0 30px;
 }
 
@@ -4053,3 +4055,5 @@ WooCommerce
 .woocommerce .woocommerce-breadcrumb span:first-of-type::before{
 	content: none;
 }
+
+.swiper-slide figure img { width: 100% !important; height: auto; }

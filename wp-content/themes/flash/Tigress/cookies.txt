@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.addtoany.com	TRUE	/	FALSE	1999999999	__cfduid	d72c065656bf90ccbd92aeb842f6ef7f31500878957
+.tigress.my	TRUE	/	FALSE	1999999999	__cfduid	d72c93a0788eb9bee11252596cfab4b371500878964
+

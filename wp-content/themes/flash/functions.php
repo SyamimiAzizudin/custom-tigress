@@ -49,6 +49,8 @@ function flash_setup() {
 	add_image_size( 'flash-big', '800', '400', true );
 	add_image_size( 'flash-grid', '370', '270', true );
 
+    add_image_size( 'my_swiper', 640, 480, true ); // 640 - swiper width, 480 - swiper height
+
 	/**
 	 * Enable support for site Logo
 	 */
@@ -196,6 +198,7 @@ function flash_scripts() {
 
 	// Font Awessome
 	wp_enqueue_style( 'font-awesome', get_template_directory_uri() . '/css/font-awesome'.$suffix.'.css' , array(), false, false);
+
 	// Swiper CSS
 	wp_register_style( 'swiper', get_template_directory_uri() . '/css/swiper'.$suffix.'.css' , array(), false, false);
 

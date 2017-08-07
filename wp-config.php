@@ -20,9 +20,9 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-//define('WP_CACHE', true); //Added by WP-Cache Manager
-define( 'WPCACHEHOME', 'C:\laragon\www\tigress\wp-content\plugins\wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'tigress');
+//define('WP_CACHE', false); //Added by WP-Cache Manager
+define( 'WPCACHEHOME', '' ); //Added by WP-Cache Manager
+define('DB_NAME', 'custom-tigress');
 
 /** MySQL database username */
 define('DB_USER', 'root');

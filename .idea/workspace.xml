@@ -1,130 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99241eb9-e83e-41f9-aa87-2d7e9acf6078" name="Default" comment="update loading page">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/flash/page-templates/tigress-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/flash/page-templates/tigress.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/.idea/Tigress.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/backblue.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/cookies.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/fade.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/hts-cache/doit.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/hts-cache/new.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/hts-cache/new.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/hts-cache/new.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/hts-cache/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/hts-cache/winprofile.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/hts-log.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/comments/feed/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/feed/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/universities-tigress__trashed/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/add-to-any/addtoany.min5152.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/add-to-any/addtoany.mind50e.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/captcha/css/desktop_style5b31.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/captcha/css/front_end_style5b31.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/instagram-feed/css/sb-instagram.mine29d.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/instagram-feed/img/loader.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/instagram-feed/img/small-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/instagram-feed/js/sb-instagram.mine29d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/logo-carousel-slider/css/lcs-styles66f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/logo-carousel-slider/css/owl.carousel66f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/logo-carousel-slider/css/owl.theme66f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/logo-carousel-slider/css/owl.transitions66f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/logo-carousel-slider/css/owl.video.play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/logo-carousel-slider/js/owl.carousel.mine7f0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/siteorigin-panels/css/front-flexed42.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/siteorigin-panels/js/styling-25.mined42.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/so-widgets-bundle/js/lib/imagesloaded.pkgd.min55a0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/so-widgets-bundle/widgets/button/css/stylec801.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/so-widgets-bundle/widgets/contact/js/contact.minc801.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/so-widgets-bundle/widgets/google-map/css/stylec801.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/so-widgets-bundle/widgets/google-map/js/js-map.minc801.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/so-widgets-bundle/widgets/image-grid/css/image-gridc801.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/plugins/so-widgets-bundle/widgets/image-grid/js/image-grid.minc801.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/css/font-awesome.min66f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/css/responsive.min66f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/css/swiper.min66f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/fonts/fontawesome-webfont5b62.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/fonts/fontawesome-webfont5b62.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/fonts/fontawesome-webfont5b62.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/fonts/fontawesome-webfont5b62.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/fonts/fontawesome-webfont5b62.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/fonts/fontawesome-webfontd41d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/js/flash.min66f2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/js/isotope.pkgd.min66f2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/js/jquery.nav.min66f2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/js/jquery.sticky.min66f2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/js/skip-link-focus-fix4a7d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/js/swiper.jquery.min66f2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/themes/flash/style66f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/employer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/for-career-services.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/for-employers-tigress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/for-students.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/iconix-emc-services.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/iconix-skills-academy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/iconix-systems-solutions.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/iconix-talent-network.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/icsb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/mmu-tigress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/mou-signing-with-tigress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/solution-for-talent-pipeline.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/taylors-tigress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/tigress-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/ukm-tigress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/06/um-tigress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/AIA-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/AWC-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/BDO-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/Berjaya-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/CIMB-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/CardBiz-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/EPNOX-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/EY-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/OCK-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/OSK-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/Vinda-1-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/aegis-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/allianz-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/honda-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/infineon-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/2017/07/munchy-s-185x145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/siteorigin-widgets/sow-button-wire-abf74775572666f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/siteorigin-widgets/sow-contact-form-default-b106b782769166f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/siteorigin-widgets/sow-headline-default-e5cd0b3f9a7966f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/siteorigin-widgets/sow-image-default-813df796d9b166f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-content/uploads/siteorigin-widgets/sow-image-grid-default-002c5dc2c56166f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-includes/css/dashicons.min66f2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-includes/fonts/dashicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-includes/js/jquery/jquery-migrate.min330a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-includes/js/jquery/jqueryb8ff.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-includes/js/wp-embed.min66f2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-includes/wlwmanifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-json/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-json/oembed/1.0/embed0732" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/wp-json/oembed/1.0/embed8af5.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/xmlrpc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/localhost/tigress/xmlrpc0db0.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min4698.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/static.addtoany.com/menu/page.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/www.google-analytics.com/analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/flash/Tigress/www.tigress.my/wp-content/uploads/2017/06/tigress-logo-white-smaller.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/siteorigin-widgets/sow-hero-default-f4d0ed1c484a.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+    <list default="true" id="99241eb9-e83e-41f9-aa87-2d7e9acf6078" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/so-widgets-bundle/widgets/google-map/js/js-map.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/so-widgets-bundle/widgets/google-map/js/js-map.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/flash/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/flash/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/flash/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/flash/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/flash/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/flash/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/flash/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/flash/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/flash/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/flash/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/flash/template-parts/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/flash/template-parts/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/siteorigin-widgets/sow-image-grid-default-002c5dc2c561.css" afterPath="$PROJECT_DIR$/wp-content/uploads/siteorigin-widgets/sow-image-grid-default-002c5dc2c561.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -181,8 +59,8 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/flash/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-638">
-              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="58">
+              <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -537,7 +415,7 @@
       <workItem from="1501721231722" duration="8756000" />
       <workItem from="1501733859580" duration="8778000" />
       <workItem from="1501809794658" duration="18572000" />
-      <workItem from="1502067843830" duration="23081000" />
+      <workItem from="1502067843830" duration="23735000" />
     </task>
     <task id="LOCAL-00001" summary="update loading page">
       <created>1500519344704</created>
@@ -550,7 +428,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132067000" />
+    <option name="totallyTimeSpent" value="132721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -564,7 +442,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9263873" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -604,7 +482,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update loading page" />
-    <option name="LAST_COMMIT_MESSAGE" value="update loading page" />
+    <MESSAGE value="settle custom template" />
+    <option name="LAST_COMMIT_MESSAGE" value="settle custom template" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -981,8 +860,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/flash/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="58">
+          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
           <folding />
         </state>
       </provider>
